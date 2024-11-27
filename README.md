@@ -1,6 +1,6 @@
-# Movie Genre Classification Using Plot Summaries
+# NLP Final Project - Movie Genre Classification Using Plot Summaries
 
-## Team
+## Team：ClosedAI
 - Kaisen Yao
 - Leo Chen
 
