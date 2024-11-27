@@ -1,0 +1,63 @@
+{
+  "metrics": {
+    "precision": 0.13636363636363635,
+    "recall": 0.2727272727272727,
+    "f1_score": 0.1636363636363636,
+    "hamming_loss": 0.3076923076923077
+  },
+  "analysis": {
+    "good_predictions": [],
+    "bad_predictions": [
+      {
+        "text": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "true_genres": [
+          "Adventure",
+          "Comedy"
+        ],
+        "predicted_genres": [
+          "Action",
+          "Music",
+          "Thriller"
+        ]
+      },
+      {
+        "text": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+        "true_genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ],
+        "predicted_genres": [
+          "Action",
+          "Science Fiction",
+          "Thriller"
+        ]
+      },
+      {
+        "text": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+        "true_genres": [
+          "Drama",
+          "Horror",
+          "Mystery"
+        ],
+        "predicted_genres": [
+          "Action",
+          "Thriller"
+        ]
+      },
+      {
+        "text": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "true_genres": [
+          "Comedy",
+          "Drama",
+          "Thriller"
+        ],
+        "predicted_genres": [
+          "Action",
+          "Music",
+          "Thriller"
+        ]
+      }
+    ]
+  }
+}

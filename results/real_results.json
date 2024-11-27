@@ -1,0 +1,110 @@
+{
+  "metrics": {
+    "precision": 0.36846983070359485,
+    "recall": 0.14784394250513347,
+    "f1_score": 0.16770432459161325,
+    "hamming_loss": 0.12210526315789473
+  },
+  "analysis": {
+    "good_predictions": [
+      {
+        "text": "David's comfortable world is turned upside down when his birth mother Melissa unexpectedly reaches out, longing to meet the eighteen year old son she's only held once.",
+        "true_genres": [
+          "Drama"
+        ],
+        "predicted_genres": [
+          "Drama"
+        ]
+      },
+      {
+        "text": "Raymond Joshua, a young black performance poet, is arrested and imprisoned for a petty marijuana charge in a Washington, D.C. jail. Although the confining prison walls do little to shield him from danger, it is within those walls that Raymond establishes his identity, strength, and voice and meets a prison gang leader and a prison writing teacher, Lauren Bell. Bell inspires Raymond to use the power of creative expression to free himself from the struggles and demise of the Black male as another victim of the judicial system.",
+        "true_genres": [
+          "Drama"
+        ],
+        "predicted_genres": [
+          "Drama"
+        ]
+      },
+      {
+        "text": "With his major league baseball debut right around the corner, a star pitcher lands in prison and must learn to navigate his new world.",
+        "true_genres": [
+          "Drama"
+        ],
+        "predicted_genres": [
+          "Drama"
+        ]
+      },
+      {
+        "text": "28-year-old Kansas University doctoral student Omar Razaghi wins a grant to write a biography of Latin American writer Jules Gund. Omar must get through to three people who were close to Gund \u2013 his brother, widow, and younger mistress \u2013 so he can get authorization to write the biography.",
+        "true_genres": [
+          "Drama"
+        ],
+        "predicted_genres": [
+          "Drama"
+        ]
+      },
+      {
+        "text": "A black champion boxer and his white female companion struggle to survive while the white boxing establishment looks for ways to knock him down.",
+        "true_genres": [
+          "Drama"
+        ],
+        "predicted_genres": [
+          "Drama"
+        ]
+      }
+    ],
+    "bad_predictions": [
+      {
+        "text": "A hard-luck limo driver struggling to go straight and pay off a debt to his bookie takes on a job with a crazed passenger whose sought-after ledger implicates some seriously dangerous criminals.",
+        "true_genres": [
+          "Action",
+          "Comedy",
+          "Thriller"
+        ],
+        "predicted_genres": [
+          "Comedy"
+        ]
+      },
+      {
+        "text": "A safecracker goes straight after doing a stretch for a bum rap. He agrees to do one last job for his \"pals\".",
+        "true_genres": [
+          "Drama",
+          "Romance"
+        ],
+        "predicted_genres": [
+          "Romance",
+          "Comedy"
+        ]
+      },
+      {
+        "text": "Macau cops begin to suspect a man running a pork buns restaurant of murder, after tracing the origin of a case full of chopped up human remains that washed ashore, which leads them to him.",
+        "true_genres": [
+          "Comedy",
+          "Crime",
+          "Horror"
+        ],
+        "predicted_genres": [
+          "Thriller"
+        ]
+      },
+      {
+        "text": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past \u2013 to save our future.",
+        "true_genres": [
+          "Action",
+          "Adventure",
+          "Science Fiction"
+        ],
+        "predicted_genres": []
+      },
+      {
+        "text": "Six people are trapped within the confines of their old high school during their 10th high school reunion with a psychotic, masked preacher who kills them off for their sinful lives they have made for themselves.",
+        "true_genres": [
+          "Horror"
+        ],
+        "predicted_genres": [
+          "Thriller"
+        ]
+      }
+    ]
+  }
+}
