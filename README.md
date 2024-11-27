@@ -42,14 +42,14 @@ NLP_Final_ClosedAI/
 ## Performance Metrics
 
 ### Synthetic Data Results
-[Synthetic Result](https://github.com/kaisenyao/NLP_Final_ClosedAI/results/synthesis_results.json)
+[Synthetic Result](results/synthesis_results.json)
 - Precision: 0.136
 - Recall: 0.273
 - F1-score: 0.164
 - Hamming loss: 0.308
 
 ### Real Data Results
-[Real Result](https://github.com/kaisenyao/NLP_Final_ClosedAI/results/real_results.json)
+[Real Result](results/real_results.json)
 - Precision: 0.368
 - Recall: 0.148
 - F1-score: 0.168
