@@ -1,0 +1,123 @@
+{
+    "total_unique_genres": 19,
+    "unique_genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Documentary",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "History",
+        "Horror",
+        "Music",
+        "Mystery",
+        "Romance",
+        "Science Fiction",
+        "TV Movie",
+        "Thriller",
+        "War",
+        "Western"
+    ],
+    "genre_frequencies": [
+        {
+            "genre": "Drama",
+            "count": 42627,
+            "percentage": 43.7
+        },
+        {
+            "genre": "Comedy",
+            "count": 27697,
+            "percentage": 28.4
+        },
+        {
+            "genre": "Thriller",
+            "count": 13290,
+            "percentage": 13.6
+        },
+        {
+            "genre": "Horror",
+            "count": 13115,
+            "percentage": 13.4
+        },
+        {
+            "genre": "Romance",
+            "count": 12730,
+            "percentage": 13.0
+        },
+        {
+            "genre": "Documentary",
+            "count": 12633,
+            "percentage": 12.9
+        },
+        {
+            "genre": "Action",
+            "count": 11131,
+            "percentage": 11.4
+        },
+        {
+            "genre": "Crime",
+            "count": 9287,
+            "percentage": 9.5
+        },
+        {
+            "genre": "Animation",
+            "count": 9082,
+            "percentage": 9.3
+        },
+        {
+            "genre": "Adventure",
+            "count": 6416,
+            "percentage": 6.6
+        },
+        {
+            "genre": "Science Fiction",
+            "count": 6205,
+            "percentage": 6.4
+        },
+        {
+            "genre": "Fantasy",
+            "count": 5961,
+            "percentage": 6.1
+        },
+        {
+            "genre": "Family",
+            "count": 5739,
+            "percentage": 5.9
+        },
+        {
+            "genre": "Mystery",
+            "count": 5640,
+            "percentage": 5.8
+        },
+        {
+            "genre": "Music",
+            "count": 4516,
+            "percentage": 4.6
+        },
+        {
+            "genre": "TV Movie",
+            "count": 4044,
+            "percentage": 4.1
+        },
+        {
+            "genre": "History",
+            "count": 3191,
+            "percentage": 3.3
+        },
+        {
+            "genre": "War",
+            "count": 2368,
+            "percentage": 2.4
+        },
+        {
+            "genre": "Western",
+            "count": 1465,
+            "percentage": 1.5
+        }
+    ],
+    "total_unique_movies": 97554,
+    "total_genre_entries": 197137
+}

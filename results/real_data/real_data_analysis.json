@@ -1,0 +1,122 @@
+{
+    "total_unique_genres": 19,
+    "unique_genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Documentary",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "History",
+        "Horror",
+        "Music",
+        "Mystery",
+        "Romance",
+        "Science Fiction",
+        "TV Movie",
+        "Thriller",
+        "War",
+        "Western"
+    ],
+    "genre_frequencies": [
+        {
+            "genre": "Drama",
+            "count": 502,
+            "percentage": 50.2
+        },
+        {
+            "genre": "Comedy",
+            "count": 286,
+            "percentage": 28.6
+        },
+        {
+            "genre": "Thriller",
+            "count": 233,
+            "percentage": 23.3
+        },
+        {
+            "genre": "Horror",
+            "count": 196,
+            "percentage": 19.6
+        },
+        {
+            "genre": "Action",
+            "count": 193,
+            "percentage": 19.3
+        },
+        {
+            "genre": "Romance",
+            "count": 191,
+            "percentage": 19.1
+        },
+        {
+            "genre": "Crime",
+            "count": 129,
+            "percentage": 12.9
+        },
+        {
+            "genre": "Adventure",
+            "count": 95,
+            "percentage": 9.5
+        },
+        {
+            "genre": "Mystery",
+            "count": 94,
+            "percentage": 9.4
+        },
+        {
+            "genre": "Science Fiction",
+            "count": 93,
+            "percentage": 9.3
+        },
+        {
+            "genre": "Fantasy",
+            "count": 71,
+            "percentage": 7.1
+        },
+        {
+            "genre": "Family",
+            "count": 58,
+            "percentage": 5.8
+        },
+        {
+            "genre": "Music",
+            "count": 47,
+            "percentage": 4.7
+        },
+        {
+            "genre": "Animation",
+            "count": 43,
+            "percentage": 4.3
+        },
+        {
+            "genre": "History",
+            "count": 38,
+            "percentage": 3.8
+        },
+        {
+            "genre": "War",
+            "count": 36,
+            "percentage": 3.6
+        },
+        {
+            "genre": "Documentary",
+            "count": 32,
+            "percentage": 3.2
+        },
+        {
+            "genre": "Western",
+            "count": 27,
+            "percentage": 2.7
+        },
+        {
+            "genre": "TV Movie",
+            "count": 25,
+            "percentage": 2.5
+        }
+    ],
+    "total_movies_analyzed": 1000
+}
